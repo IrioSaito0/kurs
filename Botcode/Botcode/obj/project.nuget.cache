@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6uR96l0BMzvqImTemQfEBXWs6tsxuz1ujHebkuRMOCNLq7483ORzj9YenlwTBfCXSkX0S2SVwjGCr8H2nB5duw==",
+  "success": true,
+  "projectFilePath": "E:\\Yaromyr\\VisStudio\\projects\\Botcode\\Botcode\\Botcode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yaromyr\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Yaromyr\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
+    "C:\\Users\\Yaromyr\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512",
+    "C:\\Users\\Yaromyr\\.nuget\\packages\\telegram.bot.extensions.polling\\1.0.2\\telegram.bot.extensions.polling.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

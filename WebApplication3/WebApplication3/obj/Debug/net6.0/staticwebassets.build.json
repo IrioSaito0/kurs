@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "O23qzF3WMbSeprfys98jXZTiWi0vgYX1bkHXcg1N8l0=",
+  "Source": "WebApplication3",
+  "BasePath": "_content/WebApplication3",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApplication3\\wwwroot",
+      "Source": "WebApplication3",
+      "ContentRoot": "E:\\Yaromyr\\VisStudio\\projects\\WebApplication3\\WebApplication3\\wwwroot\\",
+      "BasePath": "_content/WebApplication3",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
